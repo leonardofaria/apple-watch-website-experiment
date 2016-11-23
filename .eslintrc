@@ -1,0 +1,8 @@
+{
+  "extends": "eslint-config-airbnb-es5",
+  "format": "stylish",
+  "env": {
+    "browser": true,
+    "jquery": true
+  }
+}
